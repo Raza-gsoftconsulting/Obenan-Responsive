@@ -1,0 +1,139 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.h3-text {
+  text-align: center;
+}
+
+.fbg {
+  background-color: #e5e5e5;
+  height: 100vh;
+}
+
+.Box-Style {
+  width: 100%;
+}
+
+.Box-0 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 24px;
+  width: 335px;
+  height: 32px;
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.Box-1 {
+  display: flex;
+  width: 335px;
+  height: 50px;
+  padding: 0px;
+  gap: 15px;
+  flex-direction: row;
+  align-items: flex-start;
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.G-img-Style {
+  position: relative;
+  top: -4px;
+}
+
+.G-B-text {
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: #000000;
+}
+
+.Box1-style {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 160px;
+  height: 38px;
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+}
+
+.G-B-text1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: "Work Sans";
+  font-style: normal;
+  width: 75px;
+  height: 14px;
+  font-size: 15px;
+  font-weight: 400;
+  color: #000000;
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+}
+
+.asas {
+  height: 40px;
+  width: 100px;
+  background-color: #000000;
+}
+.G-B-text1-1 {
+  width: 31px;
+  font-family: "Work Sans";
+  font-style: normal;
+  color: #000000;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.Box2-style {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  width: 160px;
+  height: 38px;
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+
+.G-B-text2 {
+  color: #000000;
+  width: 39px;
+  height: 14px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 14px;
+}
+
+.G-B-text2-2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 4px;
+  gap: 4px;
+  width: 20px;
+  height: 24px;
+  color: #000000;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  font-weight: 700;
+}
